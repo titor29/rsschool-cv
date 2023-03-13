@@ -94,7 +94,7 @@ __Experience:__ <u>no experience</u>
 
 ---
 
-###Education
+### Education
 
 * Higher education, Master's degree
  specialty; Electronics and Nanoelectronics	
@@ -105,6 +105,6 @@ Faculty of Technical Cybernetics, AnGTU, Angarsk
 Geekbrains educational institution, remotely
 ---
 
-###English skill:
+### English skill:
 
 <u>Horoshiy</u>
